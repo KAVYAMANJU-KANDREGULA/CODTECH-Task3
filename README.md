@@ -39,3 +39,5 @@ CreativeSpace is an interactive web platform designed to provide a space for use
   
 ### Sample Pictures:
 
+![Screenshot 2024-11-11 225022](https://github.com/user-attachments/assets/cf7d6f2f-2186-46f6-8ae9-7d59c2c1d49f)
+![Screenshot 2024-11-11 224956](https://github.com/user-attachments/assets/bc5991e7-2b92-4128-a39a-6c8bad537efc)
